@@ -1,3 +1,3 @@
 Archivo de prueba
 Parte 5: Editar desde la web
-Parte 7: Escrito desde local
+Parte 7: Escrito desde el remoto
